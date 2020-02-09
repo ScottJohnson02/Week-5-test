@@ -1,0 +1,5 @@
+import week-5-test
+
+def test_import():
+    assert week-5-test
+
