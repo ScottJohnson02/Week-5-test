@@ -1,5 +1,4 @@
-import week-5-test
+import week5test
 
 def test_import():
-    assert week-5-test
-
+    assert week5test

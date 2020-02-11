@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="week-5-test"
+    name="week5test"
     version="0.0.1",
     author="Scott Johnson",
     author_email="ScottyJohnson002@gmail.com",
@@ -19,4 +19,3 @@ setuptools.setup(
     tests_require=['pytest'],
     python_requires='>=3.6',
 )
-
